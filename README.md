@@ -25,3 +25,10 @@ Use [BetterDiscord](https://betterdiscord.app/) to enhance Discord with **Themes
   <summary>MaterialDiscord Theme</summary>
   <img src="https://user-images.githubusercontent.com/65074550/147329992-ba043a43-03c4-4fcb-8912-1a84772d336a.png" alt="material-discord-theme">
 </details>
+ 
+ ---
+ 
+ ## Firefox
+ 
+ #### Homepage : [nightTab](https://github.com/zombieFox/nightTab)
+ 
