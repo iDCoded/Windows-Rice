@@ -3,6 +3,7 @@
 | --- |
 | [Discord](#discord) | 
 | [Firefox](#firefox) |
+| [Spotify](#spotify) |
 
 # Showcase
 --- 
@@ -44,4 +45,20 @@ Use [BetterDiscord](https://betterdiscord.app/) to enhance Discord with **Themes
  | **Dark Reader** | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) |
  | **Tree Style Tab** | [Tree Stlye Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) |
  
+--- 
 
+## Spotify
+
+<details>
+  <summary>Spotify</summary>
+  <img src="https://user-images.githubusercontent.com/65074550/147335894-ec9db303-f192-405e-bd25-fcc366fec2e1.png" alt="spotify-dribblish">
+</details>
+
+Used [Spicetify](https://github.com/khanhas/spicetify-cli) to add **Themes** and **Extensions**.
+
+Theme used : **Dribbblish - Base**
+
+| Extensions | Link |
+| --- | --- |
+| **Pop-up Lyrics** | [Pop-up Lyrics](https://spicetify.app/docs/getting-started/extensions#pop-up-lyrics) |
+| **Full App Display** | [Full App Display](https://spicetify.app/docs/getting-started/extensions#full-app-display) |
