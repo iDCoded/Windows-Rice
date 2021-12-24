@@ -7,7 +7,7 @@ Use [BetterDiscord](https://betterdiscord.app/) to enhance Discord with **Themes
 #### Theme used: [MaterialDiscord](https://github.com/CapnKitten/Material-Discord)
 
 | Plugins | Link | Description |
-| --- | --- | --- |
+| :-- | --- | --: |
 | **App Notifications** | [AppNotifications](https://betterdiscord.app/plugin/AppNotifications) | Displays notifications such as new messages, friends added in Discord.|
 | **BDFDB** | [BDFDB](https://betterdiscord.app/plugin/BDFDB) | Required Library for DevilBro's Plugins |
 | **BetterImageViewer** | [BetterImageViewer](https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterImageViewer) | Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size. Image previews will look sharper no matter what scaling you have, and will take up as much space as possible.|
