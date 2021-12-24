@@ -1,4 +1,9 @@
-# Showcacse
+# Table Of Contents
+| Contents |
+| --- |
+| [Discord](#Discord) | 
+
+# Showcase
 --- 
 ## Discord
 
@@ -15,4 +20,7 @@ Use [BetterDiscord](https://betterdiscord.app/) to enhance Discord with **Themes
 | **MessageUtilities** | [MessageUtilities](https://betterdiscord.app/plugin/MessageUtilities) | Adds several Quick Actions for Messages (Delete, Edit, Pin, etc.) |
 | **SpotifyControls** | [SpotifyControls](https://betterdiscord.app/plugin/SpotifyControls) | Adds a Control Panel while listening to Spotify on a connected Account |
 
-![material-discord](https://user-images.githubusercontent.com/65074550/147329992-ba043a43-03c4-4fcb-8912-1a84772d336a.png)
+<details>
+  <summary>MaterialDiscord Theme</summary>
+  <img src="https://user-images.githubusercontent.com/65074550/147329992-ba043a43-03c4-4fcb-8912-1a84772d336a.png" alt="material-discord-theme">
+</details>
