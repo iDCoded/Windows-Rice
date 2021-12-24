@@ -1,7 +1,8 @@
 # Table Of Contents
 | Contents |
 | --- |
-| [Discord](#Discord) | 
+| [Discord](#discord) | 
+| [Firefox](#firefox) |
 
 # Showcase
 --- 
