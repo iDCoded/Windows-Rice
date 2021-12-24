@@ -1,9 +1,9 @@
 # Table Of Contents
-| Contents |
-| --- |
-| [Discord](#discord) | 
-| [Firefox](#firefox) |
-| [Spotify](#spotify) |
+| Contents | |
+| --- | --- |
+| ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) | [Discord](#discord) |
+| ![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | [Firefox](#firefox) |
+| ![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) | [Spotify](#spotify) |
 
 # Showcase
 --- 
