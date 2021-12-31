@@ -41,12 +41,11 @@
 
 ### Editor
 
-**Visual Studio Code**
+**NeoVim**
 
-![image](https://user-images.githubusercontent.com/65074550/147641740-3f65c4f6-2582-49bf-b5fb-e40007b5a328.png)
+![neovim](https://user-images.githubusercontent.com/65074550/147803500-cbaa5eb8-ca06-4e30-81df-41e60433fb72.png)
 
-- **Theme** : **GitHub Dark**
-- **Font** : **Fira Code**
+- **Colorscheme** : **OneDark**
 
 ### Terminal
 
