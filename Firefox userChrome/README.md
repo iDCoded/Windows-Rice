@@ -3,8 +3,8 @@
 It is custom CSS to customize the looks of your Firefox just as how I have changed how the look of my Firefox to match my needs. 
 
 ## Steps to customize Firefox.
-1. Type about:config into your URL bar. Click on the I accept the risk button if you're shown a warning.
-2. Seach for toolkit.legacyUserProfileCustomizations.stylesheets, layers.acceleration.force-enabled, gfx.webrender.all and svg.context-properties.content.enabled and set them to true.
+1. Type `about:config` into your URL bar. Click on the I accept the risk button if you're shown a warning.
+2. Seach for `toolkit.legacyUserProfileCustomizations.stylesheets`, `layers.acceleration.force-enabled`, `gfx.webrender.all` and `svg.context-properties.content.enabled` and set them to true.
 3. Open your Firefox (active) profile folder
 
 <details>
