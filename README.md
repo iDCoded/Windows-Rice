@@ -13,6 +13,11 @@
 
 # Applications 
 
+### Web Browser
+**Firefox** 
+![firefox](https://user-images.githubusercontent.com/65074550/147939620-c6bdb4a1-8df8-465e-8354-08c4d4deb39e.png)
+**New Tab Page**: [nightTab](https://github.com/zombieFox/nightTab)
+
 ### Discord
 
 ![discord](https://user-images.githubusercontent.com/65074550/147639804-098fe178-7ede-4437-83c1-d50cc108d2ee.png)
