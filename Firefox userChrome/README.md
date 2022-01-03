@@ -11,6 +11,6 @@ It is custom CSS to customize the looks of your Firefox just as how I have chang
   <ul>
     <li> Go to <code>about:profiles</code> </li>
     <li> Click on <code>Open Folder</code> in <b>Root Directory</b> of the profile that is in use. </li>
-    <img alt="firefox profile folder image" src="../images/firefox-profile.png">
+    <img alt="firefox profile folder image" src="https://github.com/iDCoded/Windows-Rice/blob/main/images/firefox-profile-folder.png">
   </ul>
 </details>
